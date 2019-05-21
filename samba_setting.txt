@@ -1,0 +1,18 @@
+[global]
+workgroup = %workgroup%
+dos charset = CP932
+unix charset = UTF8
+ 
+[%folder1%]
+comment = read/write ok
+path = /var/samba/%folder1%
+browsable = yes
+writable = yes
+create mask = 0777
+directory mask = 0777
+
+[%folder2%]
+comment = read only
+path = /var/samba/%folder2%
+browsable = yes
+writable = no

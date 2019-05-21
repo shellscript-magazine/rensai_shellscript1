@@ -1,0 +1,4 @@
+taro	password0
+hanako	password2
+jiro	password3
+yoshiko	password4
