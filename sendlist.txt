@@ -1,0 +1,3 @@
+taro@example.co.jp	シェルマグ太郎
+hanako@example.com	シェルマグ花子
+jiro@exampl.com	マガジン二郎

@@ -1,0 +1,16 @@
+To: %dist_address%
+From: %source_address%
+Subject: BBQのご案内
+Content-Type: text/plain; charset="UTF-8"
+
+%name% 様
+
+お元気ですか？
+早速ですが、下記の日程でBBQを開催いたします。お手数をおかけしますが、出欠をメールにてご返信ください。%name%様にお会いできるのを楽しみにしています。
+                       記
+
+日時：2019年7月20日（土曜日） 12時から
+場所：〇〇部長のご自宅
+会費：4万5000円（税別）
+
+                                               以上
