@@ -28,7 +28,7 @@ expect -c "
   exit 0
 " > receive.log
 
-receive_count=$(tail -n 3 receive.log |head -n 1 | cut -d " " -f 2)
+receive_count=$(grep +OK receive.log | tail -n 2 | head -n 1 | cut -d " " -f 2)
 
 #　メッセージ受信
 for i in $(seq ${receive_count})
